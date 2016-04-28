@@ -1,0 +1,12 @@
+Simply install the UndertaleWrapper-signed.apk on your phone!
+
+For the controls, buy GameKeyboard+ from the Play Store and copy Undertale.gkp to your
+phone. Install GameKeyboard+, click Settings, click Import profile and select the
+Undertale.gkp.
+Then, click on Macro Editor and change the first macro to the following:
+
+Macro 1|67+13+20,0,0
+
+Then go to the main app window and click start.
+
+Open up Undertale and press the VolUp key! There you go :D
