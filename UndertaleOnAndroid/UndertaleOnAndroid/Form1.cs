@@ -28,6 +28,11 @@ namespace UndertaleOnAndroid
             fbd.ShowDialog();
             Utils.UndertaleLocation = fbd.SelectedPath;
             Utils.CheckUndertaleLocation();
+            txtLoc.Text = Utils.UndertaleLocation;
+            if (Utils.DataWinFound)
+            {
+                btnCreateApk.Enabled = true;
+            }
         }
 
         private void btnCreateApk_Click(object sender, EventArgs e)

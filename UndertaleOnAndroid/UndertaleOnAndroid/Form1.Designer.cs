@@ -74,6 +74,7 @@
             // 
             // btnCreateApk
             // 
+            this.btnCreateApk.Enabled = false;
             this.btnCreateApk.Location = new System.Drawing.Point(323, 392);
             this.btnCreateApk.Name = "btnCreateApk";
             this.btnCreateApk.Size = new System.Drawing.Size(75, 23);
